@@ -1,0 +1,8 @@
+
+pypdf
+pinecone
+dotenv
+sentence-transformers
+torch
+ollama
+streamlit
